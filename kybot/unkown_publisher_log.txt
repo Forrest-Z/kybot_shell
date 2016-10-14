@@ -1,0 +1,64 @@
+        [ERROR] [1460172128.098168071]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001571
+                        0.999999)
+        [ERROR] [1460172128.113033271]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001571
+                        0.999999)
+        [ERROR] [1460172128.115078982]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001571
+                        0.999999)
+        [ERROR] [1460172128.130826824]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001571
+                        0.999999)
+        [ERROR] [1460172128.135970336]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001571
+                        0.999999)
+        [ERROR] [1460172128.174693842]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001571
+                        0.999999)
+        [ERROR] [1460172128.177219168]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001571
+                        0.999999)
+        [ERROR] [1460172128.190905790]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001484
+                        0.999999)
+        [ERROR] [1460172128.196300631]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001484
+                        0.999999)
+        [ERROR] [1460172128.234997402]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001484
+                        0.999999)
+        [ERROR] [1460172128.237218009]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001484
+                        0.999999)
+        [ERROR] [1460172128.252019156]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001484
+                        0.999999)
+        [ERROR] [1460172128.254694419]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001484
+                        0.999999)
+        ^C[ERROR] [1460172128.293307884]: Ignoring transform for
+        child_frame_id "base_footprint" from authority "unknown_publisher"
+        because of a nan value in the transform (nan -nan 0.000000) (0.000000
+                        0.000000 0.001571 0.999999)
+        [ERROR] [1460172128.295795571]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001571
+                        0.999999)
+        [ERROR] [1460172128.310864074]: Ignoring transform for child_frame_id
+        "base_footprint" from authority "unknown_publisher" because of a nan
+        value in the transform (nan -nan 0.000000) (0.000000 0.000000 0.001571
+                        0.999999)
